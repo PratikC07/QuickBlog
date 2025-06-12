@@ -24,10 +24,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 
     ```sh
     git clone https://github.com/PratikC07/QuickBlog.git
-    cd your-repository-name
+    cd QuickBlog
     ```
 
-    _Replace `your-username/your-repository-name` with the actual URL of your GitHub repository._
 
 2.  **Set up the Server:**
 
